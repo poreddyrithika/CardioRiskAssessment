@@ -7,7 +7,7 @@ with open("heart_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Title
-st.title("❤️ Heart Disease Prediction")
+st.title("❤️ Heart Disease Risk Prediction")
 
 st.write("Enter patient details:")
 
