@@ -7,9 +7,8 @@ A **Streamlit-based web application** that predicts the **risk of heart disease*
 ## 🌐 Live Demo
 
 👉 **Try the app here:**
-🔗 https://your-app-link.streamlit.app
+🔗 https://cardioriskassessment-hqh7w7kbn82uowmbah4qzr.streamlit.app/
 
-*(Replace this with your actual Streamlit link)*
 
 ---
 
