@@ -2,7 +2,7 @@
 
 A **Streamlit-based web application** that predicts the **risk of heart disease** using a Machine Learning model.
 
----
+
 
 ## 🌐 Live Demo
 
@@ -10,7 +10,7 @@ A **Streamlit-based web application** that predicts the **risk of heart disease*
 🔗 https://cardioriskassessment-hqh7w7kbn82uowmbah4qzr.streamlit.app/
 
 
----
+
 
 ## 📌 Overview
 
@@ -18,7 +18,7 @@ CardioRiskAssessment is an interactive web app that allows users to input medica
 
 It demonstrates how **Machine Learning + Web Apps** can be combined to create real-world healthcare solutions.
 
----
+
 
 ## 🚀 Features
 
@@ -28,7 +28,7 @@ It demonstrates how **Machine Learning + Web Apps** can be combined to create re
 * 🌐 Accessible from anywhere (no installation required)
 * 📊 Built with real-world medical parameters
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ It demonstrates how **Machine Learning + Web Apps** can be combined to create re
 * **Machine Learning**: Scikit-learn
 * **Libraries**: Pandas, NumPy
 
----
+
 
 ## 📂 Project Structure
 
@@ -49,7 +49,7 @@ CardioRiskAssessment/
 │── README.md             # Project documentation
 ```
 
----
+
 
 ## ⚙️ How It Works
 
@@ -58,7 +58,7 @@ CardioRiskAssessment/
 3. Model processes the inputs
 4. Prediction is displayed instantly
 
----
+
 
 ## 💻 Run Locally
 
@@ -81,7 +81,7 @@ Run the app:
 streamlit run app.py
 ```
 
----
+
 
 ## 🎯 Use Case
 
@@ -92,24 +92,20 @@ This project can be used for:
 * Demonstrating **real-world AI applications**
 * Academic projects and presentations
 
----
+
 
 ## ⚠️ Note
 
 * This app is for **educational purposes only**
 * It should not be used as a substitute for professional medical advice
 
----
+
 
 ## 🙌 Acknowledgement
 
 Built as part of a learning project to explore **Machine Learning + Web App Deployment using Streamlit**.
 
----
 
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share it!
 
 ---
 
